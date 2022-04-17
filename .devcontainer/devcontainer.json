@@ -1,0 +1,14 @@
+{
+	"name": "Existing Docker Compose (Extend)",
+	"dockerComposeFile": [
+		"../docker-compose.yml",
+	],
+	"service": "dev",
+	"workspaceFolder": "/workspace",
+	"settings": {},
+	"extensions": [
+		"ms-python.python",
+		"streetsidesoftware.code-spell-checker",
+		"oderwat.indent-rainbow"
+	]
+}
